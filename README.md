@@ -1,4 +1,4 @@
-# Mesos-API & Management
+# Mesos - API & Management
 
 http://mesos.apache.org/documentation/latest/
 
