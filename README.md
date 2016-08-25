@@ -10,3 +10,5 @@ http://mesos.apache.org/documentation/latest/operator-http-api/
 
 http://mesos.apache.org/documentation/latest/api-client-libraries/
 
+Developer Guide:
+http://mesos.apache.org/documentation/latest/app-framework-development-guide/
